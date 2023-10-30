@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://git.heroku.com/group-iron.git'
+const CONFIG_BACKEND_URL = 'https://group-iron-88f90d51bf02.herokuapp.com/'
