@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'TDGXX/osrs-gimp-tracker-backend'
+const CONFIG_BACKEND_URL = 'https://git.heroku.com/group-iron.git'
